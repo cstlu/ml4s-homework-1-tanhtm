@@ -41,7 +41,7 @@
         print(theta)
    ```
    - Kết quả: **[ 2.81570316e+03 -2.01273433e-01  1.57657508e+00  1.53421301e-01]**
-   - So sách kết quả với hàm lm() có sẵn trên R studio cho gia kết quả như nhau !
+   - So sách kết quả với hàm lm() có sẵn trên R studio cho ra kết quả như nhau !
     ![alt text][Rstudio]
 
 [trekhleb/homemade-machine-learning]: https://github.com/trekhleb/homemade-machine-learning/tree/master/homemade/linear_regression
